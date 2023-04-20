@@ -1,0 +1,34 @@
+.myDiv {
+  background-color: rgb(189, 220, 243);
+  border-radius: 25px;
+  border: 2px solid #262824;
+  padding: 20px;
+  height: 300px;
+  width: 35%
+}
+
+.visible {
+  display: none;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+input {
+  width: 180px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+td {
+  padding: 15px;
+}
+
+input[type="radio"] {
+
+  height: 20px;
+  width: 35px;
+}
